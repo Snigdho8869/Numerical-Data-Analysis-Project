@@ -35,6 +35,6 @@ In this project, I perform the following tasks:
 | GradientBoostingClassifier | 96.69% |
 | Ensemble Classifier | 94.23%% |
 | AdaBoost | 96.50% |
-| DNN= Model | 95.07% |
+| DNN Model | 95.07% |
 | CNN Model | 96.05% |
 
